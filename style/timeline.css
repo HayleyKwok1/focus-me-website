@@ -41,3 +41,7 @@
 .pr {
   border-left: 3px solid;
 }
+
+.screenshot {
+  width: 90%;
+}
